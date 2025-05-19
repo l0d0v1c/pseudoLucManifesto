@@ -6,3 +6,7 @@
 
 * [Texte en français](Manifeste de PseudoLuc.md)
 * English text
+
+
+
+[![DOI](https://zenodo.org/badge/930191536.svg)](https://doi.org/10.5281/zenodo.14843267)

@@ -10,4 +10,6 @@
 Consulter le [wiki](https://github.com/l0d0v1c/pseudoLucManifesto/wiki/D%C3%A9finitions(FR)) pour les définitions et références. 
 
 
+
+
 [![DOI](https://zenodo.org/badge/930191536.svg)](https://doi.org/10.5281/zenodo.14843267)

@@ -6,6 +6,7 @@
 
 * [Texte en français](Manifeste%20de%20PseudoLuc.md)
 * [English text](PseudoLuc%20Manifesto-EN.md) (Automated, to be reviewed)
+* [Spanish text](PseudoLuc%20Manifesto-ES.md) (Automated, to be reviewed)
 
 Consulter le [wiki](https://github.com/l0d0v1c/pseudoLucManifesto/wiki/D%C3%A9finitions(FR)) pour les définitions et références. 
 

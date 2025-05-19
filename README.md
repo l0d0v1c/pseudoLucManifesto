@@ -11,6 +11,3 @@
 
 
 [![DOI](https://zenodo.org/badge/930191536.svg)](https://doi.org/10.5281/zenodo.14843267)
-=======
-[![DOI](https://zenodo.org/badge/930191536.svg)](https://doi.org/10.5281/zenodo.14843267)
->>>>>>> 1e7e189e1294e4dcd205069e38d18d23644e7f95

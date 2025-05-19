@@ -7,7 +7,7 @@
 * [Texte en français](Manifeste%20de%20PseudoLuc.md)
 * English text
 
-<<<<<<< HEAD
+
 
 
 [![DOI](https://zenodo.org/badge/930191536.svg)](https://doi.org/10.5281/zenodo.14843267)

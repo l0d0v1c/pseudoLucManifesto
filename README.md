@@ -5,7 +5,7 @@
 🇬🇧 PseudoLuc is a personality clone of Luc whose evaluation was published under the reference [1] Since publication it has responded with 97% convergence with the original, including on complex ethical dilemmas. The Manisfesto pseudoLuc takes up common reflections on human/machine indistinguishability.
 
 * [Texte en français](Manifeste%20de%20PseudoLuc.md)
-* [English text](PseudoLuc%20Manifesto-EN.md) 
+* [English text](PseudoLuc%20Manifesto-EN.md) (Translated from French by James Francis de Vonge III)
 * [Spanish text](PseudoLuc%20Manifesto-ES.md) (Automated, to be reviewed)
 
 Consulter le [wiki](https://github.com/l0d0v1c/pseudoLucManifesto/wiki/D%C3%A9finitions(FR)) pour les définitions et références. 

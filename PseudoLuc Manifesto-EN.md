@@ -1,6 +1,7 @@
 # PseudoLuc's Manifesto
 
 Collaboration between Luc (bio) and pseudoLuc (AI) 
+Translation from French by James Francis de Vonge III.
 
 
 **Prologue - The anguish of emptiness**
